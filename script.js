@@ -423,7 +423,7 @@
 
         console.log('❄️ SnowDrive 展示页已就绪 | SnowDrive showcase page ready');
         console.log('   GitHub: https://github.com/lclty/snowdrive');
-        console.log('   Demo: https://demo.snowdrive.lclty.cn');
+        console.log('   Demo: https://snowdrive.lclty.cn/demo');
     }
 
     if (document.readyState === 'loading') {
